@@ -34,7 +34,7 @@ Perfekt für alle, die sich in die melodische Welt der französischen Sprache st
 Ah, die Sprache der Zahlen! Momentan ist noch nicht viel hier, aber das könnte sich ändern. Denk an Formeln, Beweise oder lustige mathematische Anekdoten. Vielleicht werde ich hier sogar den einen oder anderen Quiz-ähnlichen Inhalt hinzufügen. Wer weiß, was die Zukunft bringt?
 
 ### **Programmiersprachen**
-Der Grundstein der modernen Welt. Ob Python, JavaScript oder andere Sprachen – hier sollen einfache Tutorials, Tricks und Wissen für Anfänger und Fortgeschrittene gesammelt werden. Alles inspiriert von meinem Quizlet, wo du schon jetzt einiges finden kannst.
+Der Grundstein der modernen Welt. Ob Python, JavaScript, Go oder andere Sprachen – hier sollen einfache Tutorials, Tricks und Wissen für Anfänger und Fortgeschrittene gesammelt werden. Insbesondere Go erhält durch die hinzugefügten Erklärungen und Beispiele einen besonderen Fokus, da wir dies rasch im Unterricht lernen musten. Alles inspiriert von meinem Quizlet, wo du schon jetzt einiges finden kannst – und kombiniert mit praktischen Beispielen, die Markdown und GitHub ihre volle Magie entfalten lassen.
 
 ---
 
